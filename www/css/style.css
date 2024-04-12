@@ -1,0 +1,38 @@
+h1{
+font-family:bebas neue;
+font-size:250%;
+color:white;
+}
+p{
+    color:white;
+}
+h3{
+    color:white;
+}
+h6{
+    color:white;
+}
+
+body{
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255,255,255,0.5)),
+    url(HD-wallpaper-hatsune-miku-anime-idol.jpg);
+    background-size:cover;
+}
+
+.mencoes{
+    border-radius:10px;
+   text-align:center;
+}
+
+.botao{
+    border-radius:10px;
+    background-color:white;
+    border:4px;
+}
+
+.bottao{
+    border-radius:10px;
+    background-color:rgb(18, 184, 235);
+    border:4px;
+    color:white;
+}
